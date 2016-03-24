@@ -1,0 +1,23 @@
+{
+  "name": "file-lib",
+  "version": "0.0.1",
+  "description": "Library for work with files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Dzenly/file-lib.git"
+  },
+  "keywords": [
+    "file",
+    "utils"
+  ],
+  "author": "Dzenly <alexchem@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dzenly/file-lib/issues"
+  },
+  "homepage": "https://github.com/Dzenly/file-lib#readme"
+}
