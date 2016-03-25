@@ -1,6 +1,6 @@
 {
   "name": "dz-file-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Library for work with files.",
   "main": "index.js",
   "scripts": {
