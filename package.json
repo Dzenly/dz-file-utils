@@ -1,5 +1,5 @@
 {
-  "name": "file-lib",
+  "name": "dz-file-utils",
   "version": "0.1.0",
   "description": "Library for work with files.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Dzenly/file-lib.git"
+    "url": "git+ssh://git@github.com/Dzenly/dz-file-utils.git"
   },
   "keywords": [
     "file",
@@ -17,7 +17,7 @@
   "author": "Dzenly <alexchem@yandex.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Dzenly/file-lib/issues"
+    "url": "https://github.com/Dzenly/dz-file-utils/issues"
   },
-  "homepage": "https://github.com/Dzenly/file-lib#readme"
+  "homepage": "https://github.com/Dzenly/dz-file-utils#readme"
 }
